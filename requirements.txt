@@ -1,0 +1,24 @@
+# TrendingMiner requirements.txt
+
+# Core dependencies
+numpy>=1.21.5
+pandas>=1.4.2
+scikit-learn>=1.1.2
+scipy>=1.8.0
+nltk>=3.7
+gensim>=4.1.2
+pyLDAvis>=3.3.1
+tweepy>=4.10.0
+praw>=7.5.0
+beautifulsoup4>=4.11.1
+requests>=2.28.1
+
+# Development dependencies
+black>=22.10.0
+flake8>=5.0.4
+isort>=5.10.1
+mypy>=0.961
+pytest>=7.1.2
+pytest-cov>=3.0.0
+sphinx>=4.5.0
+sphinx-rtd-theme>=1.0.0
